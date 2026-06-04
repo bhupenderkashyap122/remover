@@ -1,5 +1,0 @@
-Flask
-rembg
-Pillow
-onnxruntime
-gunicorn
